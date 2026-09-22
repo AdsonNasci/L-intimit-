@@ -1,6 +1,6 @@
 import { Leaf, ShieldCheck, Sparkles, Truck } from "lucide-react";
 
-export const WHATSAPP_NUMBER = "";
+export const WHATSAPP_NUMBER = "83999691517";
 
 export const products = [
   {
