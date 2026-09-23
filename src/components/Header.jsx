@@ -57,7 +57,7 @@ export function Header({
           </button>
           <a
             className="nav-whatsapp"
-            href={whatsappUrl("Olá, Alma! Gostaria de conhecer a coleção.")}
+            href={whatsappUrl("Olá, Gostaria de conhecer a coleção.")}
             target="_blank"
             rel="noreferrer"
           >
