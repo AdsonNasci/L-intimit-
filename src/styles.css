@@ -57,7 +57,7 @@ button {
 }
 .navbar {
   align-items: center;
-  background: #f8e5e9;
+  background: #f7d9de;
   border-bottom: 1px solid #d9aab8;
   display: flex;
   height: 88px;
@@ -265,7 +265,9 @@ h2 em {
   height: 100%;
   object-fit: cover;
   object-position: center;
-  transition: transform 0.45s ease, filter 0.45s ease;
+  transition:
+    transform 0.45s ease,
+    filter 0.45s ease;
   width: 100%;
 }
 .hero-image-wrap:hover img {
